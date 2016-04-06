@@ -2,9 +2,6 @@
 *   Microsoft Office Professional Plus 2013 SP1 VL Channel   *
 **************************************************************
 
-Release File: Office-2013-SP1-PPVL-x64-en-US-May2015.iso
-Size: 3.79 GB
-
 
 Click the Office button, install AutoKMS, and click the Activate button.
 If you experience a problem, try switching settings to use the TAP adapter
