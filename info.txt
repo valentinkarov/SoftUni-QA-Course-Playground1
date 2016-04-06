@@ -2,9 +2,6 @@
 *   Microsoft Office Professional Plus 2013 SP1 VL Channel   *
 **************************************************************
 
-Microsoft Office ProPlus 2013 SP1 VL x64 May2015
-Contains SP1 and KB files currently needed as of May12-2015
-
 Release File: Office-2013-SP1-PPVL-x64-en-US-May2015.iso
 Size: 3.79 GB
 
