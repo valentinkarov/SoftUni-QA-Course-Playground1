@@ -5,9 +5,6 @@
 Release File: Office-2013-SP1-PPVL-x64-en-US-May2015.iso
 Size: 3.79 GB
 
-Note:
-For activation, use the Microsoft Toolkit 2.5.3 in the MTKV253.zip file.
-MTK requires NetFX4, so if you are activating on Win7, you will need to
-install the .NET Framework 4, 4.5, 4.5.1, or 4.5.2
+
 Click the Office button, install AutoKMS, and click the Activate button.
 If you experience a problem, try switching settings to use the TAP adapter
